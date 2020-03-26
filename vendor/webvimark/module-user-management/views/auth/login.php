@@ -71,7 +71,7 @@ use yii\helpers\Html;
 						</tr>
 						<tr>
 							<td>Admin</td>
-							<td>dexdevs321</td>
+							<td>admin</td>
 						</tr>
 					</table>
 				</div>
