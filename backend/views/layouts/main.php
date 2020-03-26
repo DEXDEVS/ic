@@ -92,6 +92,7 @@ AppAsset::register($this);
                     ],
                 ],
                 ['label' => 'Deparments', 'url' => 'index.php?r=departments/index'],
+                ['label' => 'Workflow', 'url' => 'index.php?r=workflow'],
                 // [
                 //     'label' => 'Deparments',
                 //     'items' => [
